@@ -1,0 +1,7 @@
+geth local
+geth --networkid 5923 --nodiscover --maxpeers 0 --datadir ./ console
+
+First account
+"0xfb65f53eb3d1532e4100e301e59b42340b99fabf"
+"pass0"
+
